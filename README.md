@@ -1,5 +1,5 @@
 # Power-BI 
-![alt image](https://github.com/AbhishekCbanaj/Power-Bi-For-Learning/blob/master/images/powerbi.png)
+![alt image](https://www.atptech.com/wp-content/uploads/photo_powerbi.jpg)
 
 --------------------------------------------------------------------------------------
 
